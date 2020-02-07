@@ -1,0 +1,31 @@
+table {
+    width: 600px;
+    border-spacing: 20px;
+    margin:0;
+    padding:0;
+    margin-bottom: 20px;
+}
+
+tr{
+    margin-right: 20px;
+}
+
+td{
+    vertical-align: top;
+}
+
+.small{
+    font-size: 11px;
+}
+
+h{
+    font-size: 20px;
+    font-style: bold;
+    text-align: center;
+}
+
+ul{
+
+    margin-bottom:40px;
+
+}
